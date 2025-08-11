@@ -201,7 +201,7 @@ Key performance indicators (KPIs) such as total sales, total customers, quantity
 - Because there is insufficient investment in technology and process improvement for
   inventory management.
   
-### Root Cause:**
+### Root Cause:
 ---
 
 - Insufficient inventory management processes and the absence of data-driven demand forecasting are leading to frequent product shortages. These stockouts are directly contributing to increased customer           dissatisfaction and missed sales opportunities.
