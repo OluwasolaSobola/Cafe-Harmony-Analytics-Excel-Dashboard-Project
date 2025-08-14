@@ -2,6 +2,11 @@
 
 <img width="997" height="1333" alt="image" src="https://github.com/user-attachments/assets/214f6680-a374-4e98-8518-566a7c80dc71" />
 
+
+Disclaimer ⚠️:
+All datasets and reports used in the Café Harmony project are entirely fictional. They do not include any real proprietary, confidential, or sensitive information from any company, institution, or individual. The data has been simulated solely for educational and demonstration purposes, showcasing my skills in advanced business analysis and dashboard reporting using Microsoft Excel within a café/restaurant retail context.
+
+
 ### Table of Contents
 ---
 
