@@ -240,7 +240,7 @@ The analysis of Café Harmony’s Excel dashboard revealed valuable insights acr
 
 **4. Customer Feedback Insights**
 
-- Only 32% of customer feedback was positive, while 34% was neutral and another 34% negative.
+- Only 30.03% of customer feedback was satisfactory, while 69.70% indicated dissatisfaction.
 
 - Repeated feedback such as "Could be better" suggests gaps in service quality or product consistency, highlighting areas for customer experience improvement.
 
